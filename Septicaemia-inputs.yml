@@ -1,0 +1,18 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/septicaemia-sepsis---secondary.py
+inputModule3:
+  class: File
+  path: python/septicaemia---secondary.py
+inputModule4:
+  class: File
+  path: python/septicaemia-waterhousefriderichsen---secondary.py
+inputModule5:
+  class: File
+  path: python/septicaemia-meningococcaemia---secondary.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
